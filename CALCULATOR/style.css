@@ -1,0 +1,44 @@
+.btndisplay {
+    display: block;
+    justify-content: space-between;
+    padding: 20px 10px;
+    flex-wrap: wrap;
+}
+
+
+
+.display input {
+    outline: none;
+    border: none;
+    background-color: lightgray;
+    color: black;
+    border-radius: 5px;
+    width: 95%;
+    margin: auto;
+    font-size: 2.5em;
+    padding: 10px;
+    text-align: right;
+
+}
+.Calculator {
+width: 375px;
+margin: 10px auto;
+padding: 10px;
+border-radius: 8px;
+background-color: white;
+box-shadow: 0 8px 15px rgba(0, 0, 0, 2);
+}
+.custombtn{
+    border: none;
+    background-color: black;
+    font-size: 2em;
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+    box-shadow: 0 5px 7px rgba(0, 0, 0, 2);
+    color: white;
+    margin: 5px;
+
+ 
+    
+}
